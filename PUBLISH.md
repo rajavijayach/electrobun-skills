@@ -17,10 +17,10 @@ This guide explains how to publish the electrobun-skills repository to GitHub.
 cd /Users/rajachintada/Projects/electrobun-skills
 
 # Add remote (replace with your GitHub username/org)
-git remote add origin https://github.com/blackboardsh/electrobun-skills.git
+git remote add origin https://github.com/rajavijayach/electrobun-skills.git
 
 # Or if using SSH:
-# git remote add origin git@github.com:blackboardsh/electrobun-skills.git
+# git remote add origin git@github.com:rajavijayach/electrobun-skills.git
 
 # Push to GitHub
 git push -u origin main
@@ -58,7 +58,7 @@ Or create release via GitHub UI:
    ## Installation
 
    ```bash
-   npx skills add blackboardsh/electrobun-skills/electrobun
+   npx skills add rajavijayach/electrobun-skills/electrobun
    ```
 
    See README for full documentation.
@@ -69,7 +69,7 @@ Or create release via GitHub UI:
 
 ```bash
 # Test installing a skill
-npx skills add blackboardsh/electrobun-skills/electrobun
+npx skills add rajavijayach/electrobun-skills/electrobun
 
 # Verify it works with GitHub Copilot CLI
 # Ask Copilot about Electrobun and see if skill triggers
@@ -79,7 +79,7 @@ npx skills add blackboardsh/electrobun-skills/electrobun
 
 1. Go to [skills.sh](https://skills.sh/)
 2. Look for "Submit a skill" or similar option
-3. Submit repository URL: `https://github.com/blackboardsh/electrobun-skills`
+3. Submit repository URL: `https://github.com/rajavijayach/electrobun-skills`
 4. Skills.sh will validate and index the repository
 
 Note: Skills.sh automatically discovers skills in `skills/` directories and reads metadata from package.json.

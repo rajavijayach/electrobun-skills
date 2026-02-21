@@ -80,10 +80,10 @@
 ```bash
 cd /Users/rajachintada/Projects/electrobun-skills
 
-# Create repository on GitHub: blackboardsh/electrobun-skills
+# Create repository on GitHub: rajavijayach/electrobun-skills
 
 # Add remote and push
-git remote add origin https://github.com/blackboardsh/electrobun-skills.git
+git remote add origin https://github.com/rajavijayach/electrobun-skills.git
 git push -u origin main
 
 # Create first release
@@ -95,7 +95,7 @@ git push origin v1.0.0
 
 ```bash
 # Test installing a skill
-npx skills add blackboardsh/electrobun-skills/electrobun
+npx skills add rajavijayach/electrobun-skills/electrobun
 
 # Verify with Copilot CLI
 # Ask: "How do I create an Electrobun window?"
@@ -105,7 +105,7 @@ npx skills add blackboardsh/electrobun-skills/electrobun
 ### 3. Submit to skills.sh
 
 1. Visit [skills.sh](https://skills.sh/)
-2. Submit repository: `https://github.com/blackboardsh/electrobun-skills`
+2. Submit repository: `https://github.com/rajavijayach/electrobun-skills`
 3. Skills.sh will automatically index all 6 skills
 4. Skills will appear in the skills.sh directory
 

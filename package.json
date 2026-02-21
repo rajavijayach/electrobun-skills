@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blackboardsh/electrobun-skills.git"
+    "url": "https://github.com/rajavijayach/electrobun-skills.git"
   },
   "bugs": {
-    "url": "https://github.com/blackboardsh/electrobun-skills/issues"
+    "url": "https://github.com/rajavijayach/electrobun-skills/issues"
   },
-  "homepage": "https://github.com/blackboardsh/electrobun-skills#readme",
+  "homepage": "https://github.com/rajavijayach/electrobun-skills#readme",
   "skills": {
     "electrobun": {
       "name": "electrobun",

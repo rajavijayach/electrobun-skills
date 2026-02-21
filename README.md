@@ -7,14 +7,14 @@ A collection of specialized skills for building desktop applications with [Elect
 Install any skill with a single command:
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun
+npx skills add rajavijayach/electrobun-skills/electrobun
 ```
 
 Or install specific skills:
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-rpc-patterns
-npx skills add blackboardsh/electrobun-skills/electrobun-native-ui
+npx skills add rajavijayach/electrobun-skills/electrobun-rpc-patterns
+npx skills add rajavijayach/electrobun-skills/electrobun-native-ui
 ```
 
 ## 📦 Available Skills
@@ -27,7 +27,7 @@ Complete guide to building desktop apps with Electrobun. Covers project setup, B
 **Use when:** Starting a new Electrobun project, learning the basics, or need quick reference for core APIs.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun
+npx skills add rajavijayach/electrobun-skills/electrobun
 ```
 
 ### Specialized Skills
@@ -38,7 +38,7 @@ Advanced window and view management patterns including multi-window apps, Browse
 **Use when:** Building multi-window applications, implementing tab systems, or managing complex window hierarchies.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-window-management
+npx skills add rajavijayach/electrobun-skills/electrobun-window-management
 ```
 
 #### **electrobun-rpc-patterns**
@@ -47,7 +47,7 @@ Type-safe RPC patterns, bidirectional communication, error handling, and perform
 **Use when:** Implementing complex main/webview communication, need type safety, or optimizing RPC performance.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-rpc-patterns
+npx skills add rajavijayach/electrobun-skills/electrobun-rpc-patterns
 ```
 
 #### **electrobun-native-ui**
@@ -56,7 +56,7 @@ Native UI integration including ApplicationMenu, ContextMenu, Tray, native dialo
 **Use when:** Adding native menus, system tray, context menus, or platform-specific UI elements.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-native-ui
+npx skills add rajavijayach/electrobun-skills/electrobun-native-ui
 ```
 
 #### **electrobun-distribution**
@@ -65,7 +65,7 @@ Packaging, code signing, auto-updates, notarization (macOS), and cross-platform 
 **Use when:** Preparing app for distribution, implementing auto-updates, or setting up code signing.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-distribution
+npx skills add rajavijayach/electrobun-skills/electrobun-distribution
 ```
 
 #### **electrobun-debugging**
@@ -74,7 +74,7 @@ Development workflow, debugging main process and webview, profiling, and trouble
 **Use when:** Debugging build issues, runtime errors, or optimizing app performance.
 
 ```bash
-npx skills add blackboardsh/electrobun-skills/electrobun-debugging
+npx skills add rajavijayach/electrobun-skills/electrobun-debugging
 ```
 
 ## 🎯 What are Skills?
