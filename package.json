@@ -28,32 +28,32 @@
     "electrobun": {
       "name": "electrobun",
       "description": "Build desktop applications with Electrobun framework",
-      "path": "skills/electrobun"
+      "path": "electrobun"
     },
     "electrobun-window-management": {
       "name": "electrobun-window-management",
       "description": "Advanced window and view management patterns for Electrobun",
-      "path": "skills/electrobun-window-management"
+      "path": "electrobun-window-management"
     },
     "electrobun-rpc-patterns": {
       "name": "electrobun-rpc-patterns",
       "description": "Type-safe RPC communication patterns for Electrobun",
-      "path": "skills/electrobun-rpc-patterns"
+      "path": "electrobun-rpc-patterns"
     },
     "electrobun-native-ui": {
       "name": "electrobun-native-ui",
       "description": "Native UI integration for Electrobun applications",
-      "path": "skills/electrobun-native-ui"
+      "path": "electrobun-native-ui"
     },
     "electrobun-distribution": {
       "name": "electrobun-distribution",
       "description": "Packaging and distribution for Electrobun apps",
-      "path": "skills/electrobun-distribution"
+      "path": "electrobun-distribution"
     },
     "electrobun-debugging": {
       "name": "electrobun-debugging",
       "description": "Development and debugging workflows for Electrobun",
-      "path": "skills/electrobun-debugging"
+      "path": "electrobun-debugging"
     }
   }
 }
